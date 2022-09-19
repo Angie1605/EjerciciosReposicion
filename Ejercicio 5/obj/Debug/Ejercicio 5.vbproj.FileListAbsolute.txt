@@ -1,0 +1,12 @@
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\bin\Debug\Ejercicio 5.exe.config
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\bin\Debug\Ejercicio 5.exe
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\bin\Debug\Ejercicio 5.pdb
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\bin\Debug\Ejercicio 5.xml
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\obj\Debug\Ejercicio 5.vbproj.AssemblyReference.cache
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\obj\Debug\Ejercicio 5.vbproj.SuggestedBindingRedirects.cache
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\obj\Debug\Ejercicio_5.Resources.resources
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\obj\Debug\Ejercicio 5.vbproj.GenerateResource.cache
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\obj\Debug\Ejercicio 5.vbproj.CoreCompileInputs.cache
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\obj\Debug\Ejercicio 5.exe
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\obj\Debug\Ejercicio 5.xml
+C:\Users\angie\OneDrive - Uniempresarial\Aplicaciones de escritorio 1\PrimerProyecto\Ejercicio 5\obj\Debug\Ejercicio 5.pdb
